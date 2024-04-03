@@ -1,0 +1,395 @@
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable-Italic.woff2")
+        format("woff2-variations");
+    font-style: italic;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Semi-Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Semi-Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Semi-Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Semi-Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Semi-Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Semi-Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Semi-Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Semi-Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable-Italic.woff2")
+        format("woff2-variations");
+    font-style: italic;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable.woff2")
+        format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Monument Grotesk Mono Variable";
+    src: url("../fonts/MonumentGroteskPlusVariable-Italic.woff2")
+        format("woff2-variations");
+    font-style: italic;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("../fonts/DiatypePlusVariable-Italic.woff2")
+        format("woff2-variations");
+    font-style: italic;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("../fonts/DiatypePlusVariable-Italic.woff2")
+        format("woff2-variations");
+    font-style: italic;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("../fonts/DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("../fonts/DiatypePlusVariable-Italic.woff2")
+        format("woff2-variations");
+    font-style: italic;
+    font-weight: 200 700;
+}
